@@ -4,4 +4,4 @@ const base: IHeader = {};
 
 export const mockHeaderProps = {
   base,
-};
+};
