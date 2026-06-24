@@ -31,4 +31,4 @@ export default function handler(
   } else {
     res.status(400).json([]);
   }
-}
+}
