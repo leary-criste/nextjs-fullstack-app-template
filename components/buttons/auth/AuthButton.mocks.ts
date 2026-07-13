@@ -4,4 +4,4 @@ const base: IAuthButton = {};
 
 export const mockAuthButtonProps = {
   base,
-};
+};
