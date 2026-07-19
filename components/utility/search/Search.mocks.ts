@@ -6,4 +6,4 @@ const base: ISearch = {
 
 export const mockSearchProps = {
   base,
-};
+};
