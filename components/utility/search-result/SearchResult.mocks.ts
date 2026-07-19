@@ -8,4 +8,4 @@ const base: ISearchResult = {
 
 export const mockSearchResultProps = {
   base,
-};
+};
