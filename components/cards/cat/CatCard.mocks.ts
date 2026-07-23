@@ -10,4 +10,4 @@ const base: ICatCard = {
 
 export const mockCatCardProps = {
   base,
-};
+};
