@@ -6,4 +6,4 @@ const base: IBaseTemplate = {
 
 export const mockBaseTemplateProps = {
   base,
-};
+};
